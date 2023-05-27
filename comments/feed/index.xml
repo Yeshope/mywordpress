@@ -9,8 +9,8 @@
 <channel>
 	<title>
 	Bình luận cho khanhdata	</title>
-	<atom:link href="http://localhost/khanhdata/comments/feed/?simply_static_page=1252" rel="self" type="application/rss+xml" />
-	<link>http://yeshope.github.io/mywordpress</link>
+	<atom:link href="http://localhost/khanhdata/comments/feed/?simply_static_page=1704" rel="self" type="application/rss+xml" />
+	<link>https://yeshope.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 May 2023 07:48:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -21,11 +21,11 @@
 	<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>http://yeshope.github.io/mywordpress/2023/05/08/chao-moi-nguoi/#comment-1</link>
+		<link>https://yeshope.github.io/mywordpress/2023/05/08/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 07:48:14 +0000</pubDate>
-		<guid isPermaLink="false">http://yeshope.github.io/mywordpress/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://yeshope.github.io/mywordpress/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
