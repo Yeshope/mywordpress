@@ -9,8 +9,8 @@
 	>
 
 <channel>
-	<title>khanhdata</title>
-	<atom:link href="http://localhost/khanhdata/feed/?simply_static_page=1251" rel="self" type="application/rss+xml" />
+	<title>khanh &#8211; khanhdata</title>
+	<atom:link href="http://localhost/khanhdata/author/khanh/feed/?simply_static_page=1293" rel="self" type="application/rss+xml" />
 	<link>http://yeshope.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 May 2023 07:48:14 +0000</lastBuildDate>
